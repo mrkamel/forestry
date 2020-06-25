@@ -32,15 +32,25 @@ fields:
     schema:
       format: markdown
   label: description
-- name: buttonlink
+- name: button_link_label
   type: text
   config:
     required: false
-  label: buttonLink
-- name: link
+  label: button_Link_label
+- name: button_link_url
   type: text
   config:
     required: false
-  label: link
+  label: button_link_url
+- name: link_label
+  type: text
+  config:
+    required: false
+  label: link_label
+- name: link_url
+  type: text
+  config:
+    required: false
+  label: link_url
 pages:
 - homepage/teasers/inside-business-das-b2b-magazin.md
