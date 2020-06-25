@@ -1,5 +1,5 @@
 ---
-title: Inside Business - Das B2B Magazin ...
+title: Inside Business - Ihr B2B Magazin
 background_color: "#B8E986"
 icon: "/uploads/icon.png"
 image: ''
