@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: homepage
-  label: homepage
+  label: homepage-teasers
   create: all
   match: "**/*"
 upload_dir: uploads
