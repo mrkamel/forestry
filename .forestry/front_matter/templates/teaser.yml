@@ -42,3 +42,5 @@ fields:
   config:
     required: false
   label: link
+pages:
+- inside-business-das-b2b-magazin.md
