@@ -42,3 +42,5 @@ fields:
   config:
     required: false
   label: link
+pages:
+- homepage/teasers/inside-business-das-b2b-magazin.md
